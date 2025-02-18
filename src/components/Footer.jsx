@@ -85,7 +85,7 @@ const Footer = () => {
 					<span>
 						<a
 							className="hover:text-blue-600 hover:underline"
-							href="https://instagram.com/mohitrajakofficial_/"
+							href="https://instagram.com/mohitrajakofficial/"
 							target="_blank"
 							rel="noreferrer"
 						>
